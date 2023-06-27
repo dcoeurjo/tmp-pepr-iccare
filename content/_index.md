@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        [Solveig SERRE](https://www.solveig-serre.fr) & [David Coeurjolly](https://perso.liris.cnrs.fr/david.coeurjolly/)
+        [Solveig SERRE](https://www.solveig-serre.fr) & [David COEURJOLLY](https://perso.liris.cnrs.fr/david.coeurjolly/)
 
 
         (site temporaire)
