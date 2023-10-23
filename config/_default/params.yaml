@@ -20,7 +20,7 @@ marketing:
     org_name: ''
     description: 'PEPR ICCARE.'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-FGED9R411H'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
